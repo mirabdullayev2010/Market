@@ -19,8 +19,4 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Market.DAL\Market.DAL.csproj" />
-  </ItemGroup>
-
 </Project>
