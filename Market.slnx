@@ -1,4 +1,7 @@
 <Solution>
   <Project Path="Market.BLL/Market.BLL.csproj" />
+  <Project Path="Market.DAL/Market.DAL.csproj" Id="a030737a-b6a9-4b1f-b20e-bdd980628ffb" />
+  <Project Path="Market.Domain/Market.Domain.csproj" Id="14180ccb-5040-47a5-82f0-cca43f0c454b" />
+  <Project Path="Market.Shared/Market.Shared.csproj" Id="2adfaace-7890-4d40-86c0-0b3e514bf198" />
   <Project Path="Market/Market.csproj" />
 </Solution>

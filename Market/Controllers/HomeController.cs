@@ -1,4 +1,3 @@
-using Market.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -10,7 +9,6 @@ namespace Market.Controllers
         {
             return View();
         }
-
 
         public IActionResult Error()
         {
